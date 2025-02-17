@@ -1,0 +1,9 @@
+# Python
+venv/
+*.pyc
+
+# Node
+node_modules/
+
+# Django
+db.sqlite3
